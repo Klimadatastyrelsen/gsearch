@@ -1,6 +1,6 @@
 # GSearch dokumentation
 
-**Gsearch lukker d. 1 november. 2026. Det sker som led i arbejdet med at fremtidssikre Dataforsyningen.**
+**Gsearch lukker ultimo oktober 2026. Det sker som led i arbejdet med at fremtidssikre Dataforsyningen.**
 
 ---
 
